@@ -39,7 +39,8 @@ bash setup
 ```bash
 python instagram_hack.py
 ```
-#Usage
+ #Usage
+
 ```bash
 python instagram_hack.py -t email -w pass.txt
 ```
